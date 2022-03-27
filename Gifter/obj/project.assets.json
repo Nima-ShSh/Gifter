@@ -739,7 +739,7 @@
       ]
     },
     "Microsoft.CSharp/4.5.0": {
-      "sha512": "EGoBmf3Na2ppbhPePDE9PlX81r1HuOZH5twBrq7couJZiPTjUnD3648balerQJO6EJ8Sj+43+XuRwQ7r+3tE3w==",
+      "sha512": "kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
       "type": "package",
       "path": "microsoft.csharp/4.5.0",
       "files": [
@@ -1578,7 +1578,7 @@
       ]
     },
     "System.Numerics.Vectors/4.5.0": {
-      "sha512": "MNcaYxUJvUcoXOa+jgKl/GDw/Mh+wMrxDjW4dre7qrp35LUGTjUBNtZsNjxsWX592ocdyqt1X5hMJB+5OStoYw==",
+      "sha512": "QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
       "type": "package",
       "path": "system.numerics.vectors/4.5.0",
       "files": [
@@ -2496,21 +2496,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\newforce\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\newforce\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\newforce\\workspace\\cohort-five\\c#\\Gifter\\Gifter\\Gifter.csproj",
+      "projectUniqueName": "C:\\Users\\newforce\\workspace\\Back-End\\book-3\\Gifter\\Gifter-forked\\Gifter\\Gifter\\Gifter.csproj",
       "projectName": "Gifter",
-      "projectPath": "C:\\Users\\newforce\\workspace\\cohort-five\\c#\\Gifter\\Gifter\\Gifter.csproj",
+      "projectPath": "C:\\Users\\newforce\\workspace\\Back-End\\book-3\\Gifter\\Gifter-forked\\Gifter\\Gifter\\Gifter.csproj",
       "packagesPath": "C:\\Users\\newforce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\newforce\\workspace\\cohort-five\\c#\\Gifter\\Gifter\\obj\\",
+      "outputPath": "C:\\Users\\newforce\\workspace\\Back-End\\book-3\\Gifter\\Gifter-forked\\Gifter\\Gifter\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\newforce\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -2557,12 +2553,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.13, 5.0.13]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"

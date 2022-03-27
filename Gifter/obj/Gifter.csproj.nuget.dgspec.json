@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\newforce\\workspace\\cohort-five\\c#\\Gifter\\Gifter\\Gifter.csproj": {}
+    "C:\\Users\\newforce\\workspace\\Back-End\\book-3\\Gifter\\Gifter-forked\\Gifter\\Gifter\\Gifter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\newforce\\workspace\\cohort-five\\c#\\Gifter\\Gifter\\Gifter.csproj": {
+    "C:\\Users\\newforce\\workspace\\Back-End\\book-3\\Gifter\\Gifter-forked\\Gifter\\Gifter\\Gifter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\newforce\\workspace\\cohort-five\\c#\\Gifter\\Gifter\\Gifter.csproj",
+        "projectUniqueName": "C:\\Users\\newforce\\workspace\\Back-End\\book-3\\Gifter\\Gifter-forked\\Gifter\\Gifter\\Gifter.csproj",
         "projectName": "Gifter",
-        "projectPath": "C:\\Users\\newforce\\workspace\\cohort-five\\c#\\Gifter\\Gifter\\Gifter.csproj",
+        "projectPath": "C:\\Users\\newforce\\workspace\\Back-End\\book-3\\Gifter\\Gifter-forked\\Gifter\\Gifter\\Gifter.csproj",
         "packagesPath": "C:\\Users\\newforce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\newforce\\workspace\\cohort-five\\c#\\Gifter\\Gifter\\obj\\",
+        "outputPath": "C:\\Users\\newforce\\workspace\\Back-End\\book-3\\Gifter\\Gifter-forked\\Gifter\\Gifter\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\newforce\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -62,12 +59,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.13, 5.0.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
